@@ -6,6 +6,9 @@ A simple web application that allows users to log their daily moods using emojis
 Select and save daily mood
 View past mood history
 Delete mood entries
+
+
+
 🛠️ Technologies Used
 HTML: Structure the web page
 CSS: Styling for a clean UI
